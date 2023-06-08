@@ -1,0 +1,18 @@
+__ссылки на ресурсы__
+https://i.transport.mos.ru/flyover/kicksharing
+https://www.mskagency.ru/materials/3084665
+https://fedpress.ru/article/2767416
+https://www.mskagency.ru/materials/3112131
+https://transport.mos.ru/bicycle/kickscooter_rent
+https://transport.mos.ru/kicksharing/in-numbers
+https://1prime.ru/transport/20230531/840719314.html
+
+__туториалы для работы с библиотеками__
+https://www.codecamp.ru/blog/python-excel-tutorial/
+https://www.internet-technologies.ru/articles/pandas-read-excel-chtenie-fayla-excel-v-python.html
+https://academy.yandex.ru/handbook/python/article/modul-pandas
+
+
+ССЫЛКИ KAGGLE
+https://www.kaggle.com/datasets/razamh/escooters-trips
+https://www.kaggle.com/code/razamh/e-scooters-trips-analysis/notebook

@@ -1,0 +1,9 @@
+pandas
+ -openpyxl
+
+matplotlib
+ -pyplot
+ -numpy
+
+Link for VS Code
+Excel Viewer
